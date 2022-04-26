@@ -7,6 +7,5 @@ The nbviewer links will display the notebooks containing the code for each of th
 
 Notebook | nbviewer | Binder | PDF
 --- | --- | --- | ---
-[Reactions](https://github.com/gawthrop/GawPan22/blob/main/Reactions.ipynb)
-| [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gawthrop/GawPan22/blob/main/Reactions.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gawthrop/GawPan22/main?filepath=Reactions.ipynb) | [PDF](https://github.com/gawthrop/GawPan22/blob/main/Reactions.pdf)
+[Reactions](https://github.com/gawthrop/GawPan22/blob/main/Reactions.ipynb)| [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gawthrop/GawPan22/blob/main/Reactions.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gawthrop/GawPan22/main?filepath=Reactions.ipynb) | [PDF](https://github.com/gawthrop/GawPan22/blob/main/Reactions.pdf)
 [Chloroplast](https://github.com/gawthrop/GawPan22/blob/main/Chloroplast.ipynb) | [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gawthrop/GawPan22/blob/main/Chloroplast.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gawthrop/GawPan22/main?filepath=Chloroplast.ipynb) | [PDF](https://github.com/gawthrop/GawPan22/blob/main/Chloroplast.pdf)
