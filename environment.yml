@@ -10,4 +10,4 @@ dependencies:
   - pip:
     - quadprog==0.1.8
     - svgpathtools==1.3.3
-    - BondGraphTools==0.3.7
+    - BondGraphTools
