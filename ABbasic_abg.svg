@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.7a -->
+<!-- CreationDate: 2021-12-31 10:27:48 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="343pt" height="60pt"
+	viewBox="2453 2453 5444 944">
+<g fill="none">
+<!-- Line -->
+<rect x="2475" y="2475" width="5400" height="900" rx="105"
+	stroke="#ffd600" stroke-width="15px"/>
+<!-- Text -->
+<text xml:space="preserve" x="3150" y="3015" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:A</text>
+<!-- Text -->
+<text xml:space="preserve" x="5175" y="3015" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Re:r</text>
+<!-- Text -->
+<text xml:space="preserve" x="7200" y="3015" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:B</text>
+<!-- Line -->
+<polyline points=" 3600,2925 4725,2925 4500,3150"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 5625,2925 6750,2925 6525,3150"
+	stroke="#000000" stroke-width="15px"/>
+</g>
+</svg>
